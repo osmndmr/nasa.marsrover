@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/Nasa/.vs/Nasa
+/Nasa/Nasa.MarsRover/bin/Debug
+/Nasa/Nasa.MarsRover/obj
+/Nasa/Nasa.MarsRover.Test/bin/Debug
+/Nasa/Nasa.MarsRover.Test/obj
+/Nasa/packages
